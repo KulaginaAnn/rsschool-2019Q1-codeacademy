@@ -1,3 +1,2 @@
-# rsschool-2019Q1-codeacademy
-Name Surname
+Ann Kulagina
 HTML CSS Basics: https://www.codecademy.com/users/AnnKulagina/achievements
